@@ -25,7 +25,7 @@ SECRET_KEY = '!3(f^xhsog0a3qp!(y^ke(ylkw*#-5ai_s-us2dtb5d4l!@#h3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['anonimaalgoritmi.pythonanywhere.com',]
 
 
 # Application definition
